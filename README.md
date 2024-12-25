@@ -31,7 +31,22 @@ I'm dedicated to enhancing my skills, currently focusing on:
 - ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white) 
 - ![Merise Method](https://img.shields.io/badge/Merise-003366?style=for-the-badge) 
 - ![Testing](https://img.shields.io/badge/testing-%231a1a1a.svg?style=for-the-badge) 
-- ![UML](https://img.shields.io/badge/uml-%2307708C.svg?style=for-the-badge&logo=uml) 
+- ![UML](https://img.shields.io/badge/uml-%2307708C.svg?style=for-the-badge&logo=uml)
+
+## Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=marsacolombo&theme=radical&hide_border=true" width="64%" alt="Leela Prasad's github-readme-streak-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marsacolombo&show_icons=true&locale=en&layout=donut&theme=radical&hide_border=true"  width="31%" alt="marsacolombo" />
+</p>
+
+##
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marsacolombo&theme=radical&hide_border=true"  width="64%" alt="Leela Prasad's profile-details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marsacolombo&theme=radical"  width="31%" alt="Leela Prasad's github stats"/>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marsacolombo&label=Profile%20views&color=0e75b6&style=flat" alt="marsacolombo" /> </p>
 
 ## 💼 Collaboration
 I'm actively seeking collaboration opportunities in Web Page development. Let's work together to build exceptional digital experiences!
